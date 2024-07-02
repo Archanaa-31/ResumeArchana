@@ -57,7 +57,25 @@ h3 {
    
     #mainLeft {
         border-right: 1px solid lightgray;
+        
     }
 #header{
     text-align: center;
+}
+.hi{
+    padding-top: -40px;
+    font-weight: 100;
+  
+}
+a:link{
+    color: black;
+}
+a:active{
+    color: white;
+}
+a:hover{
+    color: burlywood;
+}
+a{
+    text-decoration: underline;
 }
